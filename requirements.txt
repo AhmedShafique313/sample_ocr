@@ -1,0 +1,10 @@
+opencv-python
+pandas
+google.generativeai
+easyocr
+langchain_google_genai
+json5
+pillow
+numpy
+fastapi
+python-multipart
